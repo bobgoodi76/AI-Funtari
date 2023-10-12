@@ -1,4 +1,6 @@
 # AI-Funtari
+---------------------------------------
+
 AI image generator Website 
 
 ![logo]
@@ -6,7 +8,6 @@ Bloglinks
 
 <hr>
 
-#                 Project 4 Bloglinks
 
 <hr>
 
